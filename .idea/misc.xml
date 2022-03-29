@@ -4,12 +4,17 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Android/Exercise/Android_Week_08/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14322916666666666" />
+        <entry key="..\:/Android/Exercise/Android_Week_08/app/src/main/res/drawable/bg_product.xml" value="0.26614583333333336" />
         <entry key="..\:/Android/Exercise/Android_Week_08/app/src/main/res/drawable/ic_yellow_block.xml" value="0.14322916666666666" />
         <entry key="..\:/Android/Exercise/Android_Week_08/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Android/Exercise/Android_Week_08/app/src/main/res/layout/activity_main2.xml" value="0.25" />
         <entry key="..\:/Android/Exercise/Android_Week_08/app/src/main/res/layout/activity_main3.xml" value="0.2359375" />
+        <entry key="..\:/Android/Exercise/Android_Week_08/app/src/main/res/layout/activity_main_list_view.xml" value="0.25" />
+        <entry key="..\:/Android/Exercise/Android_Week_08/app/src/main/res/layout/adapter_product.xml" value="0.25" />
         <entry key="..\:/Android/Exercise/Android_Week_08/app/src/main/res/layout/fragment_above.xml" value="0.264" />
+        <entry key="..\:/Android/Exercise/Android_Week_08/app/src/main/res/layout/fragment_below.xml" value="0.12708333333333333" />
         <entry key="..\:/Android/Exercise/Android_Week_08/app/src/main/res/layout/fragment_blank.xml" value="0.12708333333333333" />
+        <entry key="..\:/Android/Exercise/Android_Week_08/app/src/main/res/layout/fragment_product.xml" value="0.12708333333333333" />
         <entry key="..\:/Android/Exercise/Android_Week_08/app/src/main/res/layout/framgment_below.xml" value="0.2" />
       </map>
     </option>
